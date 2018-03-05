@@ -8,9 +8,9 @@ Work in progress.
 All chapters completed.
 
 Links to pages for each chapter:<br />
-https://stephenitb.github.io/year3-story-2018/Chapter_1.html<br />
-https://stephenitb.github.io/year3-story-2018/Chapter_2.html<br />
-https://stephenitb.github.io/year3-story-2018/Chapter_3.html<br />
+[Chapter 1](https://stephenitb.github.io/year3-story-2018/Chapter_1.html)<br />
+[Chapter 2](https://stephenitb.github.io/year3-story-2018/Chapter_2.html)<br />
+[Chapter 3](https://stephenitb.github.io/year3-story-2018/Chapter_3.html)<br />
 
 Todo
 
