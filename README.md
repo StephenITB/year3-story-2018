@@ -5,4 +5,4 @@ The aim of this project is to write a series of short story's, over 3 chapters, 
 
 Current progress:
 
-Writing Chapter 1.
+Chapter 1 Completed
