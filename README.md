@@ -3,10 +3,12 @@ COMP H6046 Web Software Engineering - Assessment component - Git Story
 
 The aim of this project is to write a series of short story's, over 3 chapters, under the heading of "It could be worse"
 
-Current progress:
+Work in progress.
 
-Chapter 1 Completed
+All chapters completed.
 
-Chapter 2 Completed
+Todo
 
-Chapter 3 Completed
+- Alternate version of Chapter 3
+- Story should be published automatically on Github pages 
+- Pull request
