@@ -7,4 +7,4 @@ Current progress:
 
 Chapter 1 Completed
 
-Chapter 2 Story changed, work in progress
+Chapter 2 Work in progress
