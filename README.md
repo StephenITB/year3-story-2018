@@ -7,6 +7,9 @@ Work in progress.
 
 All chapters completed.
 
+Links to pages for each chapter:
+
+
 Todo
 
 - Alternate version of Chapter 3
