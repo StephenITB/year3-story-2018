@@ -11,7 +11,7 @@ Links to pages for each chapter:<br />
 [Chapter 2](https://stephenitb.github.io/year3-story-2018/Chapter_2.html)<br />
 [Chapter 3](https://stephenitb.github.io/year3-story-2018/Chapter_3.html)<br />
 
-An alternative ending for Chapter 3 can be found on Brnach alternative_ending
+An alternative ending for Chapter 3 can be found on Branch alternative_ending: <br />
 [Chapter 3 Alternative Ending](https://github.com/StephenITB/year3-story-2018/blob/alternative_ending/Chapter_3_alterative_ending.html)<br />
 
 Todo
